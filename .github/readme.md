@@ -1,4 +1,4 @@
-# Detection Pulse Rise Time by Oversampling (2.5ns resolution).
+# Detection of 10ns Pulse Rise Time by Oversampling (2.5ns resolution).
 
 ## 1. Problem definition
 
