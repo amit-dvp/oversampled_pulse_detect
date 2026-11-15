@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="buffers_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="buffers_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="166.666 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,166.667 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="196"></NameColumnWidth>
+      <ValueColumnWidth column_width="71"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/buffers_tb/sys_clk_100MHz_p" type="logic">
+      <obj_property name="ElementShortName">sys_clk_100MHz_p</obj_property>
+      <obj_property name="ObjectShortName">sys_clk_100MHz_p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/buffers_tb/sys_clk_100MHz_n" type="logic">
+      <obj_property name="ElementShortName">sys_clk_100MHz_n</obj_property>
+      <obj_property name="ObjectShortName">sys_clk_100MHz_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/buffers_tb/buffers_inst/sys_clk_100MHz_u" type="logic">
+      <obj_property name="ElementShortName">sys_clk_100MHz_u</obj_property>
+      <obj_property name="ObjectShortName">sys_clk_100MHz_u</obj_property>
+   </wvobject>
+   <wvobject fp_name="/buffers_tb/sys_rst" type="logic">
+      <obj_property name="ElementShortName">sys_rst</obj_property>
+      <obj_property name="ObjectShortName">sys_rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/buffers_tb/buffers_inst/rst_comb" type="logic">
+      <obj_property name="ElementShortName">rst_comb</obj_property>
+      <obj_property name="ObjectShortName">rst_comb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/buffers_tb/buffers_inst/pll_locked" type="logic">
+      <obj_property name="ElementShortName">pll_locked</obj_property>
+      <obj_property name="ObjectShortName">pll_locked</obj_property>
+   </wvobject>
+   <wvobject fp_name="/buffers_tb/sys_clk_100MHz_n" type="logic">
+      <obj_property name="ElementShortName">sys_clk_100MHz_n</obj_property>
+      <obj_property name="ObjectShortName">sys_clk_100MHz_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/buffers_tb/clk100" type="logic">
+      <obj_property name="ElementShortName">clk100</obj_property>
+      <obj_property name="ObjectShortName">clk100</obj_property>
+   </wvobject>
+   <wvobject fp_name="/buffers_tb/clk100_ph90" type="logic">
+      <obj_property name="ElementShortName">clk100_ph90</obj_property>
+      <obj_property name="ObjectShortName">clk100_ph90</obj_property>
+   </wvobject>
+   <wvobject fp_name="/buffers_tb/clk200" type="logic">
+      <obj_property name="ElementShortName">clk200</obj_property>
+      <obj_property name="ObjectShortName">clk200</obj_property>
+   </wvobject>
+   <wvobject fp_name="/buffers_tb/clk100_rst" type="logic">
+      <obj_property name="ElementShortName">clk100_rst</obj_property>
+      <obj_property name="ObjectShortName">clk100_rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/buffers_tb/clk200_rst" type="logic">
+      <obj_property name="ElementShortName">clk200_rst</obj_property>
+      <obj_property name="ObjectShortName">clk200_rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/buffers_tb/C_CLK_PERIOD" type="other">
+      <obj_property name="ElementShortName">C_CLK_PERIOD</obj_property>
+      <obj_property name="ObjectShortName">C_CLK_PERIOD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/buffers_tb/C_HALF_CLK_PERIOD" type="other">
+      <obj_property name="ElementShortName">C_HALF_CLK_PERIOD</obj_property>
+      <obj_property name="ObjectShortName">C_HALF_CLK_PERIOD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/buffers_tb/C_RESET_TIME" type="other">
+      <obj_property name="ElementShortName">C_RESET_TIME</obj_property>
+      <obj_property name="ObjectShortName">C_RESET_TIME</obj_property>
+   </wvobject>
+</wave_config>
